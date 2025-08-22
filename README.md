@@ -1,5 +1,5 @@
 # General
-Project completed as part of Principles of Digital Design (CMPE 212). Final project focused on designing and implementing a 7-segment decoder using digital logic and Verilog.
+Project completed as part of Principles of Digital Design. Final project focused on designing and implementing a 7-segment decoder using digital logic and Verilog.
 
 # About 7-Segment Decoder
 Designed a 7-segment display decoder that converts 3-bit binary inputs (000–111) into their decimal digit representation on a 7-segment LED.
